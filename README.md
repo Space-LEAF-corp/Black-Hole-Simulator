@@ -1,5 +1,3 @@
----
-
 Cosmic Event Reconstruction & Black Hole Merger Simulation Framework
 
 A research‑grade toolkit for generating, analyzing, and visualizing cosmic‑scale gravitational events using real astrophysical data.
